@@ -8,17 +8,17 @@ layout: frontpage
 header:
   image_fullwidth: you-can-delete-me-header.png
 widget1:
-  title: "Widget 1"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  title: "a blog"
+  url: 'http://controlfd.com'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
 widget2:
-  title: "Widget 2"
+  title: "a bird"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
 widget3:
-  title: "Widget 3"
+  title: "a bow"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
